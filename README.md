@@ -1,6 +1,6 @@
 # Melody-Mapper-Chromebook
 
-<!DOCTYPE html>
+
 <html lang="en" class="dark">
 <head>
   <meta charset="UTF-8" />
@@ -138,7 +138,7 @@
       <div class="flex flex-wrap items-center gap-2.5 bg-slate-900/80 border border-slate-700/80 rounded-xl px-3 py-1.5 text-xs">
         <div class="flex items-center gap-1.5 border-r border-slate-700 pr-2.5">
           <i class="fa-solid fa-user-graduate text-cyan-400 text-xs"></i>
-          <input type="text" id="studentNameInput" placeholder="Student Name" value="Alex Rivera" oninput="autoSaveToLocalStorage()" class="bg-transparent text-slate-200 placeholder-slate-500 focus:outline-none w-24 sm:w-32 text-xs font-semibold" />
+          <input type="text" id="studentNameInput" placeholder="Student Name" value="YOUR NAME" oninput="autoSaveToLocalStorage()" class="bg-transparent text-slate-200 placeholder-slate-500 focus:outline-none w-24 sm:w-32 text-xs font-semibold" />
         </div>
         <div class="flex items-center gap-1.5">
           <i class="fa-solid fa-music text-fuchsia-400 text-xs"></i>
@@ -545,7 +545,7 @@
     <div class="max-w-7xl mx-auto flex flex-col sm:flex-row items-center justify-between gap-2">
       <p>© 2026 MelodyMapper — Chromebook Music Education & Song Analysis Tool</p>
       <p class="flex items-center gap-2">
-        <span class="text-cyan-400"><i class="fa-solid fa-graduation-cap"></i> Designed for Middle & High School Music Classes</span>
+        <span class="text-cyan-400"><i class="fa-solid fa-graduation-cap"></i> Designed for Mt & S Music Classes</span>
       </p>
     </div>
   </footer>
