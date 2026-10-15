@@ -1,6 +1,5 @@
 # Melody-Mapper-Chromebook
 
-
 <html lang="en" class="dark">
 <head>
   <meta charset="UTF-8" />
@@ -130,7 +129,7 @@
               <i class="fa-solid fa-laptop text-[9px]"></i> Chromebook Edition
             </span>
           </div>
-          <p class="text-[11px] text-slate-400 font-medium">Song Structure & Section Marker for Music Class</p>
+          <p class="text-[11px] text-slate-400 font-medium">Song Structure & Section Marker for Music Production Class</p>
         </div>
       </div>
 
